@@ -1,2 +1,2 @@
 # EventPortal
-college event portal tinkerhub bfh
+college event portal, tinkerhub bfh
